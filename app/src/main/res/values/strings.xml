@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chocolateria</string>
+    <string name="username">Usuario</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="confirm">Confirmar</string>
+    <string name="entrar">Entrar</string>
+    <string name="esqueceu_a_senha"><a href="#">Esqueceu a senha?</a></string>
+    <string name="mostrar_senha">Mostrar Senha</string>
+    <string name="cadastrar"><a href="#">Cadastrar!</a></string>
+    <string name="n_possui_uma_conta">Não possui uma conta?</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_name">Product Name</string>
+    <string name="x">X</string>
+    <string name="quantity">quantity</string>
+    <string name="proximo">Finalizar pedido</string>
+    <string name="finalizar_pedido">Produtos no carrinho</string>
+    <string name="total">Total:</string>
+</resources>
